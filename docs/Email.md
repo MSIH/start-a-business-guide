@@ -1,7 +1,11 @@
+# Email
+## Provider
+- Google Domain
+- 
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+## Client
+- Gmail
+- Outlook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE4MzMwMzcxM119
 -->
